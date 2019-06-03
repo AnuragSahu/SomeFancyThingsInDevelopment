@@ -13,7 +13,7 @@
 #### Or you can clone this repo for a template it is hosted in https://anuragsahu.github.io/SomeFancyThingsInDevelopment/
 5. download the template
 6. check if the template have any .git file
-7. if there is .git file delete it
+7. if there is .git file delete it. (This file is hidden if it exits at all, so in ubuntu press clt+ h  or in windows press show hidden files to view it.)
 8. now open terminal and navigate to your current working directory
 9. type in the following commands
 ```sh
